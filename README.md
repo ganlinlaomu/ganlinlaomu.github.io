@@ -1,2 +1,2 @@
-# ganlinlaomu.github.io
-for nostr nip-05
+# oooxxx.ml
+The world is crazy!
